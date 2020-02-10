@@ -1,0 +1,89 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+h1{
+  color: #142850;
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+}
+h3{
+  color:  #142850;
+  font-family: 'Montserrat', sans-serif;
+}
+p{
+  font-family: 'Montserrat', sans-serif;
+  width: 25%;
+  margin: 0 auto 1.875% auto;
+}
+hr{
+    border-style: dotted none none;
+    border-color: gray;
+    border-width: 0.625rem;
+    width: 5%;
+  }
+/***************************class selection**********************/
+.david{
+  padding-top: 6.25rem;
+  font-size: 6.25rem;
+}
+.oncolog{
+  padding-bottom: 3.125rem;
+}
+.top-conteiner{
+  background-color: #00a8cc;
+}
+.bottom-conteiner{
+  padding-top: 1.875rem;
+}
+.night2-img{
+  width: 15%;
+}
+.face{
+  border-radius: 100%;
+  margin: 1.875% auto 1.875% auto;
+}
+.table1{
+  margin: auto;
+  font-family: 'Montserrat', sans-serif;
+}
+.table2{
+  margin: auto;
+}
+.moto{
+  position: relative;
+  left: 21.875rem;
+  top:7.5rem;
+}
+.moto1{
+  position:relative;
+  right:21.875rem;
+  top:7.5rem;
+}
+.Get{
+  color: #00a8cc;
+  font-family: 'Montserrat', sans-serif;
+}
+.love{
+  color:#00a8cc;
+  font-family: 'Montserrat', sans-serif;
+}
+.contact{
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.875rem;
+  color: #00a8cc;
+}
+.final-conteiner{
+  background-color: #00a8cc;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  font-size: 0.625rem;
+  margin-top: 0.9375rem;
+  padding-bottom: 1.25rem;
+}
+
+.contact-box{
+  font-family: 'Montserrat', sans-serif;
+
+}
